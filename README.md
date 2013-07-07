@@ -1,6 +1,6 @@
 ## enlive-util
 
-Some utils for enlive[enlive](https://github.com/cgrand/enlive "enlive")
+Some utils for [enlive](https://github.com/cgrand/enlive "enlive")
 
 ## License
 
